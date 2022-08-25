@@ -1,5 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.brvz.mobile.brvz.main",
-               "sha256_cert_fingerprints": ["BA:66:8C:32:9C:81:CB:CA:8A:46:09:E5:06:2E:B2:35:8F:09:DE:1F:73:DA:C4:EF:EA:36:97:CA:B6:DE:A8:77"] }
-}]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.brvz.mobile.brvz.main",
+      "sha256_cert_fingerprints": [
+        "BA:66:8C:32:9C:81:CB:CA:8A:46:09:E5:06:2E:B2:35:8F:09:DE:1F:73:DA:C4:EF:EA:36:97:CA:B6:DE:A8:77"
+      ]
+    }
+  }
+]
